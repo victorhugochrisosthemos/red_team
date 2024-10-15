@@ -1,0 +1,3 @@
+# Ransonware
+- Ransonware é um tipo de malware
+- https://github.com/joaoamaral28/ransomware_script/tree/master
