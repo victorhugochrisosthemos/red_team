@@ -32,7 +32,7 @@
 - less <arquivo>: Exibe o conteúdo de um arquivo, uma página por vez.
 - head <arquivo>: Mostra as primeiras linhas de um arquivo.
 - tail <arquivo>: Mostra as últimas linhas de um arquivo.
-6. Gestão de Processos
+## Gestão de Processos
 - ps: Exibe processos em execução.
 - kill <PID>: Encerra um processo pelo seu ID.
 - killall <nome_do_processo>: Encerra todos os processos com o nome especificado.
