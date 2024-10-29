@@ -1,4 +1,4 @@
-# Ataques Cibernéticos
+# Aprendendo mais sobre red team
 - Ataques cibernéticos são invasões a sistemas computacionais sem a devida permissão, tendo acesso a informações e a estruturas de um sistema
 - A empresa Crowdstrike trabalha com segurança virtual e desenvolveu um relatório sobre os principais ataques enfrentados pelas empresas de todo o mundo, além de gerar um perfil dos atacantes
 - Esse repositório vai abordar questões sobre o relatório e sobre o funcionamento dos principais ataques cibernéticos
