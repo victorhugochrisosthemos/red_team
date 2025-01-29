@@ -4,7 +4,7 @@
 - A empresa Crowdstrike trabalha com segurança virtual e desenvolveu um relatório sobre os principais ataques enfrentados pelas empresas de todo o mundo, além de gerar um perfil dos atacantes
 - Esse repositório vai abordar questões sobre o relatório e sobre o funcionamento dos principais ataques cibernéticos
 ## Ferramentos do red team
-- Kali Linux
+- [Kali Linux](https://www.kali.org/get-kali/#kali-platforms)
 - [Nmap](https://nmap.org/download#windows)
     - Se não rodar de primeira, talvez seja necessário instalar o [npcap](https://npcap.com/dist/npcap-1.80.exe)
     - Ao instalar, pode acessar via aplicativo instalado ou via prompt
