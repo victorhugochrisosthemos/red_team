@@ -5,7 +5,8 @@
 - Esse repositório vai abordar questões sobre o relatório e sobre o funcionamento dos principais ataques cibernéticos
 ## Ferramentos do red team
 - Kali Linux
-- Nmap
+- [Nmap](https://nmap.org/download#windows)
+    - Se não rodar de primeira, talvez seja necessário instalar o [npcap](https://npcap.com/dist/npcap-1.80.exe)
 - Metasploit
 - Burp Suite
 - Wireshark
