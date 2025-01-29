@@ -5,11 +5,14 @@
 - Esse repositório vai abordar questões sobre o relatório e sobre o funcionamento dos principais ataques cibernéticos
 ## Ferramentos do red team
 - [Kali Linux](https://www.kali.org/get-kali/#kali-platforms)
-- [Nmap](https://nmap.org/download#windows)
+- Nmap
+    - [Para windows](https://nmap.org/download#windows)
     - Se não rodar de primeira, talvez seja necessário instalar o [npcap](https://npcap.com/dist/npcap-1.80.exe)
     - Ao instalar, pode acessar via aplicativo instalado ou via prompt
     - Via prompt precisa chegar na ionstância C com o comando "cd \". Depois use "nmap + IP alvo" ou "nmap -A + IP alvo"
 - Metasploit
+      - Um artigo sobre o assunto: [aqui](https://academiadeforensedigital.com.br/metasploit-o-que-e-e-como-funciona-esta-poderosa-ferramenta-hacker/)
+      - 
 - Burp Suite
 - Wireshark
 - Cobalt Strike
