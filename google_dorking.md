@@ -12,4 +12,4 @@
 - https://blog.lemeforense.com.br/o-que-e-google-dorking-e-como-usar-para-alavancar-sua-investigacao/
 
 
-<--! https://chatgpt.com/c/67cb0ca7-8e70-8003-8d41-cba7176ef5d9 -->
+<!-- https://chatgpt.com/c/67cb0ca7-8e70-8003-8d41-cba7176ef5d9 -->
